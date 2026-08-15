@@ -2,6 +2,12 @@
 
 Jogo de plataforma 2D desenvolvido no **Construct 3** como projeto de estudo em desenvolvimento de jogos.
 
+<p align="center">
+  <a href="https://will564.itch.io/duck-gameplay">
+    <strong>🎮 JOGAR DUCK STRESSPLAY</strong>
+  </a>
+</p>
+
 ## 🎮 Sobre o projeto
 
 **Duck StressPlay** é um jogo de plataforma 2D no qual o jogador controla um pato através de diferentes fases, enfrentando obstáculos, armadilhas e desafios até alcançar o objetivo de cada nível.
