@@ -42,6 +42,26 @@ Este projeto faz parte do meu processo de formação em desenvolvimento de jogos
 - Testes e ajustes de jogabilidade
 - Evolução de um projeto existente através de novas ideias e modificações
 
+## 📸 Screenshots
+
+### 🎮 Menu principal
+
+<p align="center">
+  <img src="Screenshots/Menu.PNG" width="500">
+</p>
+
+### 🕹️ Gameplay
+
+<p align="center">
+  <img src="Screenshots/captura1.PNG" width="45%">
+  <img src="Screenshots/captura2.PNG" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/captura3.PNG" width="45%">
+  <img src="Screenshots/captura4.PNG" width="45%">
+</p>
+
 ## 🚧 Status do projeto
 
 Projeto desenvolvido para fins de estudo e portfólio.
