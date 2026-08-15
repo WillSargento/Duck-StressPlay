@@ -3,7 +3,7 @@
 Jogo de plataforma 2D desenvolvido no **Construct 3** como projeto de estudo em desenvolvimento de jogos.
 
 <p align="center">
-  <a href="https://will564.itch.io/duck-gameplay">
+  <a href="https://will564.itch.io/duck-stressplay">
     <strong>🎮 JOGAR DUCK STRESSPLAY</strong>
   </a>
 </p>
